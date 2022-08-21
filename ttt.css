@@ -1,0 +1,18 @@
+.container .jumbotron{
+  background : green;
+  color : white;
+  text-align: center;
+}
+button{
+  color:black;
+}
+td{
+  border: solid red 5px;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  font-size: 100px;
+}
+table{
+  margin-left: 25%;
+}
